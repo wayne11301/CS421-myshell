@@ -4,7 +4,7 @@ This is a customized shell interface program that accepts user commands and then
 
 In addition to normal inputs, this shell program provdies some extra command options:
 1. yell: Transform all chars to uppercase.
-2. ^Z: Display a commands history list (up to 10 commands), users may execute any of these history commands by entering 'r' or 'r '+index.
+2. ^Z: Display a history list of previous entered commands (up to 10), users may execute any of these history commands by entering 'r' or 'r '+index.
 3. While exiting, the program will automatically print out these 7 informations {PID, PPID, %CPU, %MEM, ELAPSED, USER, COMMAND}.
 
 
