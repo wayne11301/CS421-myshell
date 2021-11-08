@@ -10,6 +10,6 @@ In addition to normal inputs, this shell program provdies some extra command opt
 
 ### Walkthough GIF
 
-<img src='test run' title='test run' width='800' alt='test run' />
+<img src='test run.gif' title='test run' width='800' alt='test run' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
